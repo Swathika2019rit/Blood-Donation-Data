@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/89442567/152317319-45d7d370-b8c6-41bc-97de-e3493b57147f.mp4
+
 # Blood-Donation-Data
 ![image](https://user-images.githubusercontent.com/89442567/152193578-1d4a914b-cf16-4a68-83c8-8138ef8dbeb1.png)
 **Train Model**
